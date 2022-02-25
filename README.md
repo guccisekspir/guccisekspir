@@ -6,6 +6,7 @@
 
 
 [![Starbucks Concept](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=starbucks_concept)](https://github.com/guccisekspir/starbucks_concept)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=my_portfolio_flutter)](https://github.com/guccisekspir/my_portfolio_flutter)
 [![OPscroll_web](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=OPscroll_web)](https://github.com/guccisekspir/OPScroll_web)
 [![mucbirsebepler](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=mucbirsebepler)](https://github.com/guccisekspir/mucbirsebepler)
 [![acununparasiniharca](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=acununparasiniharca)](https://github.com/guccisekspir/acununparasiniharca)
