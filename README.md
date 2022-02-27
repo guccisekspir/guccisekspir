@@ -9,6 +9,7 @@
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=my_portfolio_flutter)](https://github.com/guccisekspir/my_portfolio_flutter)
 [![OPscroll_web](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=OPscroll_web)](https://github.com/guccisekspir/OPScroll_web)
 [![remood](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=remood)](https://github.com/guccisekspir/remood)
+[![clashminiguide](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=clashminiguide)](https://github.com/guccisekspir/clashminiguide)
 [![mucbirsebepler](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=mucbirsebepler)](https://github.com/guccisekspir/mucbirsebepler)
 [![acununparasiniharca](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=acununparasiniharca)](https://github.com/guccisekspir/acununparasiniharca)
 [![flutter_restoran_app](https://github-readme-stats.vercel.app/api/pin/?username=guccisekspir&theme=radical&repo=flutter_restoran_app)](https://github.com/guccisekspir/flutter_restoran_app)
