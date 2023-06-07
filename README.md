@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 
-
+- 🔭 [Here](https://github.com/guccisekspir/how_cagri_works_in_flutterr) how I am work on Flutter 
+- 🌱 I’m lifetime learner
+- 👯 I’m looking to collaborate on any open-source Flutter Projects
+- 📫 How to reach me: cagri@sekspir.net
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: My beard was blue 
 
 
 
@@ -19,9 +24,4 @@
 
 
 
-- 🔭 I’m currently working on [Smoody](https://www.instagram.com/smoody.app/)
-- 🌱 I’m lifetime learner
-- 👯 I’m looking to collaborate on any open-source Flutter Projects
-- 📫 How to reach me: cagri@sekspir.net
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My beard was blue 
+
